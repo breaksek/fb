@@ -190,7 +190,7 @@ def login_lagi334():
 	try:
 		os.system('clear')
 		none()
-		print(f'\n\033[0m- \033[0m\033[41mAuthor breaksek\033[0m\n- \033[0m\033[41mGithub https://github.com/breaksek\033[0m')
+		print(f'\n\033[0m- \033[0m\033[41mAuthor :  breaksek\033[0m\n- \033[0m\033[41mGithub : https://github.com/breaksek\033[0m')
 		print('\n╰─ Masukan Cookie Mu Lord v:')
 		asu = random.choice([h])
 		cookie=input(f'╰─ Cookies :{asu} ')
