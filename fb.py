@@ -193,7 +193,7 @@ def login_lagi334():
 		print(f'\n\033[0m- \033[0m\033[41mAuthor :  breaksek\033[0m\n- \033[0m\033[41mGithub : https://github.com/breaksek\033[0m')
 		print('\n╰─ Masukan Cookie Mu Lord v:')
 		asu = random.choice([h])
-		cookie=input(f'╰─ Cookies :{asu} ')
+		cookie=input(f'•> Masukkan Coockie :{asu} ')
 		data = requests.get("https://business.facebook.com/business_locations", headers = {"user-agent": "NokiaX3-02/5.0 (06.05) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+","referer": "https://www.facebook.com/","host": "business.facebook.com","origin": "https://business.facebook.com","upgrade-insecure-requests" : "1","accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7","cache-control": "max-age=0","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8","content-type":"text/html; charset=utf-8"}, cookies = {"cookie":cookie}) 
 		find_token = re.search("(EAAG\w+)", data.text)
 		ken=open(".token.txt", "w").write(find_token.group(1))
