@@ -5,7 +5,7 @@
 * MY SOCIAL MEDIA :
 
 <a href="https://Instagram.com/breaksek"><img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png?f=webp&w=256" alt="alt text" width="20" height="20"></a> 
-<a href="https://wa.me/6281331184338?text=Asalamualaikum+bang"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/whatsapp.png" alt="alt text" width="20" height="20"></a>
+<a href="https://wa.me/6281331184338?text=Asalamualaikum+bang"><img src="https://cdn.iconscout.com/icon/free/png-512/free-whatsapp-3691235-3073755.png?f=webp&w=256" alt="alt text" width="20" height="20"></a>
 <a href="https://www.youtube.com/channel/UCXb9jWAemn6RZ2gmImFG0uQ"><img src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-268-721990.png?f=webp&w=256" alt="alt text" width="20" height="20"></a> 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
 ___
