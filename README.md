@@ -19,7 +19,7 @@ Wanna Hire Me ?
 Contact : admin@breaksek.com
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=breaksek&show_icons=true&theme=dark)
-<a href="https://github.com/breaksek/ig"><img title="instagram" src="https://github-readme-stats.vercel.app/api/pin/?username=breaksek&repo=ig&theme=vision-friendly-dark"></a>
+<a href="https://github.com/breaksek/botai"><img title="bot" src="https://github-readme-stats.vercel.app/api/pin/?username=breaksek&repo=botai&theme=vision-friendly-dark"></a>
 <a href="https://github.com/breaksek/"><img title="" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Brute&theme=vision-friendly-dark"></a>
 <a href="https://github.com/breaksek/"><img title="" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Cr4ck&theme=vision-friendly-dark"></a>
 
