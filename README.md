@@ -23,6 +23,6 @@ Contact : admin@breaksek.com
 <a href="https://github.com/breaksek/"><img title="" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Brute&theme=vision-friendly-dark"></a>
 <a href="https://github.com/breaksek/"><img title="" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Cr4ck&theme=vision-friendly-dark"></a>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breaksek&layout=compact" alt="Top language">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breaksek&layout=compact&theme=dark" alt="Top language">
 
 ![template_s](https://github.com/Yayan-XD/Yayan-XD/blob/master/img/wallpaperbetter_(1).jpg)
