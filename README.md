@@ -20,7 +20,7 @@ Contact : admin@breaksek.com
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=breaksek&show_icons=true&theme=dark)
 <a href="https://github.com/breaksek/botai"><img title="bot" src="https://github-readme-stats.vercel.app/api/pin/?username=breaksek&repo=botai&theme=vision-friendly-dark"></a>
-<a href="https://github.com/breaksek/shell"><img title="shell" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=shell&theme=vision-friendly-dark"></a>
+<a href="https://github.com/breaksek/shell"><img title="shell" src="https://github-readme-stats.vercel.app/api/pin/?username=breaksek&repo=shell&theme=vision-friendly-dark"></a>
 <a href="https://github.com/breaksek/"><img title="" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Cr4ck&theme=vision-friendly-dark"></a>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breaksek&layout=compact&theme=dark" alt="Top language">
